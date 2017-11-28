@@ -6,3 +6,6 @@
 ## Herramientas
 - Pentaho Data Integration
 - Talend Open Studio
+
+## Ayuda
+https://help.github.com/articles/basic-writing-and-formatting-syntax/

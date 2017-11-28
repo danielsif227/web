@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: web
 repository: danielsif227/web
+
+permalink: /:year/:month/:day/:
